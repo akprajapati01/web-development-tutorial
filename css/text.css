@@ -1,0 +1,14 @@
+#para{
+    color: rgb(193, 213, 38);
+    text-decoration: wavy;
+    text-shadow: 3px;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+#bg{
+    height: 100%;
+    width: 100%;
+    background-image: url("D:\Web Development\web-development-tutorial\static\plant.jpg");
+
+}
