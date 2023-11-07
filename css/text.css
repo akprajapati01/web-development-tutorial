@@ -12,3 +12,32 @@
     background-image: url("D:\Web Development\web-development-tutorial\static\plant.jpg");
 
 }
+
+#div1{
+    background-color: aqua;
+    height: 300px;
+    width: 500px;
+
+}
+
+#div2{
+    background-color: bisque;
+    height: 300px;
+    width: 500px;
+}
+
+#div3{
+    background-color: blueviolet;
+    height: 300px;
+    width: 500px;
+}
+
+#div4{
+    background-color: brown;
+    height: 30px;
+    width: 50px;
+}
+
+div{
+    display: inline-block;
+}

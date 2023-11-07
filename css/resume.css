@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+}
+
+#body-header{
+    background-image: url(/web-development-tutorial/static/macbook_mouse.jpg);
+    height: 65vh;
+    opacity: 0.7;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.horizontal-list{
+    list-style: none;
+    padding-left: 15px;
+    text-align: center;
+    margin: 0px;
+}
+.horizontal-list li{
+    display: inline-block;
+}
+.horizontal-list li a{
+    color: white;
+    text-decoration: none;
+    transition:color 0.7s  ;
+    padding: 12px;
+}
+.horizontal-list li a:hover{
+    color: rgb(124, 155, 158);
+    border-bottom: 1px rgb(124, 155, 158) solid;
+}
+.text-centre{
+    text-align: center;
+}
+#name-social-container{
+    margin-top: 20vh;
+}
+#header-name{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0.5rem;
+}
+#horizontal-list-social li{
+    display: inline-block;
+    padding: 10px;
+}
+#horizontal-list-social li img{
+    height: 40px;
+    width: 40px; 
+    background-color: white;  
+    border-radius: 50%;
+}
+#horizontal-list-social li img:hover{
+    box-shadow: 0px 0px 6px 4px grey;
+}
+#my-photo{
+    height: 200px;
+    width: 100%;
+    margin-top: -17vh;
+    position: relative;
+}
+#my-photo img{
+    position: fixed;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 41%;
+    box-shadow: 0px 0px 7px 6px gainsboro;
+    
+}
+#about{
+    
+}

@@ -19,3 +19,22 @@ li h4{
 #head:hover{
     color: orange;
 }
+
+main{
+    width: 60%;
+    display: inline-block;
+}
+
+/* Aside */
+
+#subsription{
+    border: 3px solid black;
+    /* display: inline-block; */
+    /* width: 20%; */
+    /* vertical-align: top; */
+}
+
+#aside-widget{
+    vertical-align: 35%;
+    display: inline-block;
+}
