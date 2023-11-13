@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+#container{
+    height: 75vh;
+    width: 100vw;
+    background-color: aquamarine;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#container div{
+    height: 50px;
+    width: 50px;
+}
+#div1{
+    background-color: blueviolet;
+    /* order: 1; */
+}
+#div2{
+    background-color: red;
+}
+#div3{
+    background-color: greenyellow;
+}
+#div4{
+    background-color: chartreuse;
+    /* order: -1; */
+}
