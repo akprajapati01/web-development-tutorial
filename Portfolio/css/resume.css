@@ -7,7 +7,7 @@ body{
 }
 
 #body-header{
-    background-image: url(/web-development-tutorial/static/macbook_mouse.jpg);
+    background-image: url(/static/macbook_mouse.jpg);
     height: 65vh;
     opacity: 0.7;
     background-size: cover;
