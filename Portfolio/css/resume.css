@@ -308,6 +308,11 @@ section{
 
 }
 
+.portfolio-content img{
+    height: 150px;
+    width: 100%;
+}
+
 /* Contact */
 #contact{
     height: 75vh;
