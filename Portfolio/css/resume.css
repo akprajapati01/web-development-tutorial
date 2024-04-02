@@ -244,7 +244,7 @@ section{
     top: 10%;
     left: 50%;
     width: 0;
-    min-height: 400px;
+    min-height: 300px;
     height: 75%;
     border: 1.5px dashed rgb(28, 237, 195);
 
@@ -253,6 +253,7 @@ section{
     position: sticky;
     top: 20%;
     left: 50%;
+   
 }
 .timeline-img img{
     height: 25px;
